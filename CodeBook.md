@@ -102,3 +102,6 @@ Only variables containing "mean" or "std" in their names were extracted for the 
 * `fBodyBodyGyroJerkMag-mean()` 
 * `fBodyBodyGyroJerkMag-std()` 
 
+##Final Dataset
+
+The final form of the dataset includes the Subject and Activity columns, as well as the average values of each of the extracted observation columns by the Subject and Activity.
