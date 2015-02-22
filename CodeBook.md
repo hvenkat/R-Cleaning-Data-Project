@@ -3,8 +3,8 @@ Getting and Cleaning Data - Code Book
 
 The original data was acquired in raw text form.
 
-*[Original Dataset](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
-*[Abstract](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
+-[Original Dataset](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
+-[Abstract](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
 
 The X_test, Y_test, subject_test and features files were combined into a single set for processing. 
 
