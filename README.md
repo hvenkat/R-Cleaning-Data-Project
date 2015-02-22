@@ -1,4 +1,4 @@
-#Repository for Coursera Getting and Cleaning Data Project
+##Repository for Coursera Getting and Cleaning Data Project
 
 ### run_analysis.R
 
