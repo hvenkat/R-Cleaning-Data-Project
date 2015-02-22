@@ -11,13 +11,17 @@ The X_test, Y_test, subject_test and features files were combined into a single 
 
 subject_label and activity_label were renamed to Subject and Activity respectively.
 
+
  Original dataset    | Summary dataset 
  --------------------|--------------
  `subject_label`     | `Subject`
  `activity_label`    | `Activity`
  
 
+
+
 The activity labels from features_info were used to replace the activity codes in the dataset.
+
  
   activity           | activity_label
  --------------------|--------------
