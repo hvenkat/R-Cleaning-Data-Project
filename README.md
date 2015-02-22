@@ -18,5 +18,5 @@ build.dataset()
 5. Create a new frame with only the Subject, Activity and the mean and standard deviation columns from the original combined dataset.
 6. Replace Activity Codes (1-6) with descriptive terms.
 7. Create a summary dataset containing only average values for each column broken down by Subject and Activity.
-8. Write out the summary dataset in a text file (summary_data.txt)
+8. Write out the summary dataset in a csv file (summary_data.csv)
 
